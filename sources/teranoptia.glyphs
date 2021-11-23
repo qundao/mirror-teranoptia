@@ -1,8 +1,5 @@
 {
-.appVersion = "3100";
-DisplayStrings = (
-"/bdotbelow"
-);
+.appVersion = "3101";
 copyright = "Trademark © Ariel Martín Pérez - SIL Open Font License v1.1";
 customParameters = (
 {
@@ -10,7 +7,7 @@ name = "Disable Subroutines";
 value = 1;
 },
 {
-name = openTypeNameLicenseURL;
+name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
@@ -6796,7 +6793,7 @@ unicode = 0072;
 },
 {
 glyphname = s;
-lastChange = "2021-10-15 14:30:28 +0000";
+lastChange = "2021-11-23 15:58:29 +0000";
 layers = (
 {
 layerId = "36C34FB4-9C42-4BD9-991C-7B94FED7D558";
@@ -7011,30 +7008,30 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"786 218 OFFCURVE",
-"797 228 OFFCURVE",
-"797 241 CURVE SMOOTH",
-"797 250 OFFCURVE",
-"791 255 OFFCURVE",
-"791 261 CURVE SMOOTH",
-"791 267 OFFCURVE",
-"799 275 OFFCURVE",
-"799 288 CURVE SMOOTH",
-"799 300 OFFCURVE",
-"789 311 OFFCURVE",
-"775 311 CURVE SMOOTH",
-"762 311 OFFCURVE",
-"751 301 OFFCURVE",
-"751 288 CURVE SMOOTH",
-"751 275 OFFCURVE",
-"756 271 OFFCURVE",
-"756 264 CURVE SMOOTH",
-"756 257 OFFCURVE",
-"749 253 OFFCURVE",
-"749 241 CURVE SMOOTH",
-"749 228 OFFCURVE",
-"759 218 OFFCURVE",
-"772 218 CURVE SMOOTH"
+"722 251 OFFCURVE",
+"732 240 OFFCURVE",
+"745 240 CURVE SMOOTH",
+"754 240 OFFCURVE",
+"759 246 OFFCURVE",
+"765 246 CURVE SMOOTH",
+"771 246 OFFCURVE",
+"779 238 OFFCURVE",
+"792 238 CURVE SMOOTH",
+"804 238 OFFCURVE",
+"815 248 OFFCURVE",
+"815 262 CURVE SMOOTH",
+"815 275 OFFCURVE",
+"805 286 OFFCURVE",
+"792 286 CURVE SMOOTH",
+"779 286 OFFCURVE",
+"775 281 OFFCURVE",
+"768 281 CURVE SMOOTH",
+"761 281 OFFCURVE",
+"757 288 OFFCURVE",
+"745 288 CURVE SMOOTH",
+"732 288 OFFCURVE",
+"722 278 OFFCURVE",
+"722 265 CURVE SMOOTH"
 );
 },
 {
@@ -12097,6 +12094,6 @@ name = Furiae;
 manufacturer = "Tunera Type Foundry";
 manufacturerURL = "http://www.tunera.xyz/";
 unitsPerEm = 1000;
-versionMajor = 0;
-versionMinor = 1;
+versionMajor = 1;
+versionMinor = 0;
 }
