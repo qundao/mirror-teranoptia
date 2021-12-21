@@ -43,10 +43,6 @@
 	<string>Furiae</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<true/>
-	<key>com.schriftgestaltung.weightValue</key>
-	<integer>400</integer>
-	<key>com.schriftgestaltung.widthValue</key>
-	<integer>5</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -111,10 +107,26 @@
 		<string>zdotaccent</string>
 		<string>comma</string>
 		<string>asterisk</string>
+		<string>parenleft</string>
+		<string>parenright</string>
+		<string>braceleft</string>
+		<string>braceright</string>
+		<string>bracketleft</string>
+		<string>bracketright</string>
 		<string>hyphen</string>
+		<string>quotedblleft</string>
+		<string>quotedblright</string>
+		<string>quoteleft</string>
+		<string>quoteright</string>
+		<string>guillemotleft</string>
+		<string>guillemotright</string>
+		<string>guilsinglleft</string>
+		<string>guilsinglright</string>
 		<string>space</string>
 		<string>.notdef</string>
 		<string>dollar</string>
+		<string>Euro</string>
+		<string>tainome</string>
 	</array>
 </dict>
 </plist>
