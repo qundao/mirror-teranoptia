@@ -27,9 +27,9 @@ Para saber cómo usar este tipo de letra, lea las preguntas frecuentes (http://w
 ## Specimen
 
 ![specimen1](documentation/specimen/teranopia-specimen-01.png)
-![specimen2](documentation/specimen/teranopia-specimen-02.png)
-![specimen3](documentation/specimen/teranopia-specimen-03.png)
-![specimen4](documentation/specimen/teranopia-specimen-04.png)
+![specimen1](documentation/specimen/teranopia-specimen-02.png)
+![specimen1](documentation/specimen/teranopia-specimen-03.png)
+![specimen1](documentation/specimen/teranopia-specimen-04.png)
 
 ## License
 
