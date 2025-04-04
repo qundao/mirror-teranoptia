@@ -8,7 +8,7 @@ typeface family:
   - worldbuilding
   - symbols
   - typometry
-  repository url: https://gitlab.com/arielmartinperez/teranoptia
+  repository url: https://codeberg.org/arielmartinperez/teranoptia
   project status: published
   tools:
   - Glyphs

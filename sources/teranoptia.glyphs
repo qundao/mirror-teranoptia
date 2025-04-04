@@ -1,5 +1,5 @@
 {
-.appVersion = "3108";
+.appVersion = "3408";
 copyright = "Trademark © Ariel Martín Pérez - SIL Open Font License v1.1";
 customParameters = (
 {
@@ -13,7 +13,7 @@ value = "http://scripts.sil.org/OFL";
 );
 date = "2019-10-16 09:39:07 +0000";
 designer = "Ariel Martín Pérez";
-designerURL = "https://appliedmetaprojects.com/";
+designerURL = "https://arielmartinperez.com/";
 familyName = Teranoptia;
 fontMaster = (
 {
@@ -7474,7 +7474,7 @@ lastChange = "2021-10-15 14:30:28 +0000";
 layers = (
 {
 backgroundImage = {
-imagePath = "20210629_162849.jpg";
+imagePath = 20210629_162849.jpg;
 locked = "1";
 transform = "{0.33422, 0, 0, 0.33422, 0, -200}";
 };
@@ -7733,7 +7733,7 @@ width = 1000;
 {
 associatedMasterId = "36C34FB4-9C42-4BD9-991C-7B94FED7D558";
 backgroundImage = {
-imagePath = "20210629_162849.jpg";
+imagePath = 20210629_162849.jpg;
 locked = "1";
 transform = "{0.33422, 0, 0, 0.33422, 0, -200}";
 };

@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblright" format="2">
-	<advance width="1000"/>
-	<unicode hex="201D"/>
-	<outline>
-		<component base="quotedblleft" xScale="0" xyScale="-1" yScale="0" yxScale="1" xOffset="200" yOffset="800"/>
-	</outline>
+  <advance width="1000"/>
+  <unicode hex="201D"/>
+  <outline>
+    <component base="quotedblleft" xScale="0" xyScale="-1" yScale="0" yxScale="1" xOffset="200" yOffset="800"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021-12-05 08:14:02 +0000</string>
+    </dict>
+  </lib>
 </glyph>

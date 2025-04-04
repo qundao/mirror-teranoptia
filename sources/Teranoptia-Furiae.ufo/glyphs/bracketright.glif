@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bracketright" format="2">
-	<advance width="1000"/>
-	<unicode hex="005D"/>
-	<outline>
-		<component base="bracketleft" xScale="-1" xOffset="1000"/>
-	</outline>
+  <advance width="1000"/>
+  <unicode hex="005D"/>
+  <outline>
+    <component base="braceleft" xScale="-1" yScale="-1" xOffset="1000" yOffset="600"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021-12-03 20:50:28 +0000</string>
+    </dict>
+  </lib>
 </glyph>
